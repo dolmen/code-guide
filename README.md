@@ -7,6 +7,8 @@ Standards for developing flexible, durable, and sustainable HTML and CSS.
 
 
 
+
+
 ## Table of contents
 
 * [Golden rule](#golden-rule)
